@@ -3,4 +3,4 @@
  
  Orc Wars, RTS
 
-All assets, models, music, and sound effects have been removed. Only the .cs files remain.
+All assets, models, music, and sound effects have been removed. Only the .cs and .unity files remain.
